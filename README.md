@@ -8,7 +8,7 @@ Hey there! I'm into backend development using Flask and Node.js, and I'm explori
 
 * 🌍  I'm based in Chennai, India
 * ✉️  You can contact me at [gutgutiashivam@gmail.com](mailto:gutgutiashivam@gmail.com)
-* 🚀  I'm currently working on [Contactify](http://github.com/shivamgutgutia/Contactiy)
+* 🚀  I'm currently working on [Contactify](http://github.com/shivamgutgutia/Contactify)
 * 🧠  I'm learning GoLang
 * ⚡  Resume link: https://shivamgutgutia.github.io/resume
 
